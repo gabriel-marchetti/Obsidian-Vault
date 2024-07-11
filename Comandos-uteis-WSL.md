@@ -1,3 +1,9 @@
+---
+tags:
+  - wsl
+  - commands
+---
+
 Para conseguir passar algum texto do Terminal Windows para o Clipboard do windows basta executar o comando:
 
 cat <filename.extension> | clip.exe
