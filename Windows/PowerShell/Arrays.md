@@ -29,3 +29,17 @@ Some other interesting method's for arraysLists
 $array_list.Remove("Test2") # This removes only the first instance
 ```
 
+Now comes some optimization problems with arrays that raise by choosing one of them. We will test it by adding 50000 (50k) elements to it.
+
+```powershell
+$array_test = @()
+Measure-Command -Expression {@(0..50000).ForEach({@array_test+=$_})}
+```
+
+Obs: $_ stands for the current value of the iteration.
+This takes about half a minute to be done.
+
+```powershell
+$arraylist_test = New-Object -Typename System.Collections.ArrayList
+Measure-Command -Expression {@(0..50000).ForEach(@arraylist_test.Add($_))}
+```
