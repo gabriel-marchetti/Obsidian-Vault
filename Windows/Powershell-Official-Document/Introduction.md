@@ -4,3 +4,4 @@ O powershell utiliza das pipelines onde a saída de uma função será utilizada
 
 O powershell também utiliza de Aliases que são nomes alternativos para comandos.
 
+cmdlets são nomeados a partir de um padrão verbo-substantivo.
