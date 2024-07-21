@@ -13,4 +13,8 @@ Computational Biology: Uses much of dynamic programming to find some interesting
 
 ---
 
-Everyone knows the Moore's Law - which tells us that the density of transistors located in an integrated circuit will double every 1 to 2 years - but most of the complexity issues is solved by utilizing a more syiu
+Everyone knows the Moore's Law - which tells us that the density of transistors located in an integrated circuit will double every 1 to 2 years - but most of the complexity issues is solved by utilizing a more suitable algorithm or optimizing it.
+
+Algorithms are being used in Quantum Mechanics, Economic Markets, Evolution
+
+At the end: Algorithms are challenging which will make you smarter.
