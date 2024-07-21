@@ -1,0 +1,1 @@
+- Villain: Is someone who sees the world differently due to previous experiences in life. They've suffered, they've lived, they've injustice and now seek justice and revenge. What was exposed to then now is a reason to fight for justice.
