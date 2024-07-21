@@ -24,7 +24,7 @@ There is the function (or method) AddRange that will add a list to your already 
 $array_list.AddRange(@("Test3", "Test4", "Test5"))
 ```
 
-Some other interesting method's for arraysLists
+Some other interesting method's for ArrayLists
 ```powershell
 $array_list.Remove("Test2") # This removes only the first instance
 ```
@@ -43,3 +43,6 @@ This takes about half a minute to be done.
 $arraylist_test = New-Object -Typename System.Collections.ArrayList
 Measure-Command -Expression {@(0..50000).ForEach(@arraylist_test.Add($_))}
 ```
+
+This takes less than a second to be done... Using the method AddRange will optimize even more our code.
+
