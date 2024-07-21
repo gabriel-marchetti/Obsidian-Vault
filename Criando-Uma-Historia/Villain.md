@@ -1,2 +1,2 @@
 - Villain: Is someone who sees the world differently due to previous experiences in life. They've suffered, they've lived, they've injustice and now seek justice and revenge. What was exposed to then now is a reason to fight for justice.
-I think that good villains are the ones when you see their perspective than the hero turn out to be a villain. Think in the perspective of a bacteria, most of them will live by b
+I think that good villains are the ones when you see their perspective than the hero turn out to be a villain. Think in the perspective of a bacteria, most of them will live by benefiting their host, but some of them will need to get them ill, but that is just the life that were presented to them. 
