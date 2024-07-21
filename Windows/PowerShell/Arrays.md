@@ -18,3 +18,14 @@ And now we can make some operations such as add and remove without much concern 
 [void]$array_list.add("Test")
 ```
 
+There is the function (or method) AddRange that will add a list to your already existing list.
+
+```powershell
+$array_list.AddRange(@("Test3", "Test4", "Test5"))
+```
+
+Some other interesting method's for arraysLists
+```powershell
+$array_list.Remove("Test2") # This removes only the first instance
+```
+
