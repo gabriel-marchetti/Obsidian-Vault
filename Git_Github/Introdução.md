@@ -11,4 +11,6 @@ Veja que um método mais adequado seria algo síncrono, isto é, baseamos o noss
 
 Veja que se pudermos ciclar entre cada versão de modo que resgatamos as modificações anteriores, então temos um fluxo de trabalho extremamente eficiente. Esse é o papel do Git, gerenciar as versões do seu trabalho.
 
-Veja que aqui transcendemos o nível de trabal
+Veja que aqui transcendemos o nível de trabalho em equipe, uma vez que cada integrante pode gerar na sua máquina alterações no projeto sem alterar o todo e, além disso, gerar requisições de agregação das alterações. Veja que essas alterações podem ser correção de bugs, por exemplo. Assim como, criar ambientes de teste fica mais fácil.
+
+Desse modo, criamos um novo aspecto de comunidade de modo que temos várias ferramentas para compartilhar nosso código como o GitHub, o GitBucket e o GitLab.
