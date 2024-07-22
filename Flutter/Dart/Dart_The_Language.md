@@ -8,3 +8,9 @@ void main(){
 }
 ```
 
+Para rodar um código .dart primeiro precisamos criar o ambiente que executaremos o nosso código. Desse modo temos que rodar:
+
+```powershell
+dart create -t console cli
+```
+
