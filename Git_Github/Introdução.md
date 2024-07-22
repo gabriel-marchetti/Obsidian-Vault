@@ -3,3 +3,12 @@ Git vs Github
 
 Em outras palavras, vamos supor que tenhamos a seguintes estrutura de organização: Temos uma pasta onde salvamos as versões do nosso projeto. Sabemos, por experiência, que podemos gerar um ambiente como:
 
+![[Exemplo_Git|500]]
+
+Veja que um método mais adequado seria algo síncrono, isto é, baseamos o nosso projeto na sua versão atual dada uma requisição de salvamento. Desse modo temos:
+
+![[Imagem_git|500]]
+
+Veja que se pudermos ciclar entre cada versão de modo que resgatamos as modificações anteriores, então temos um fluxo de trabalho extremamente eficiente. Esse é o papel do Git, gerenciar as versões do seu trabalho.
+
+Veja que aqui transcendemos o nível de trabal
