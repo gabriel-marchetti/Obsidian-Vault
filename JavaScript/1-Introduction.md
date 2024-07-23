@@ -15,4 +15,5 @@ Javascript is a safe language in the sense that you don't need to handle the mem
 -> Simples things are done by simple ways
 -> Support from all majors browser's.
 
-There are many language that are transpiled
+There are many language that are transpiled to Javascript before they run, one example of this is the TypeScript language.
+

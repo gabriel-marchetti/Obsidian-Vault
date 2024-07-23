@@ -1,0 +1,1 @@
+The most accurate place to find informations and specifications about Javascript is by:  but it's kind of Difficult
