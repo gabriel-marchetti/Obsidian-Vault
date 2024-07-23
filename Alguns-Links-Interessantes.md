@@ -8,6 +8,9 @@ Curso Estruturas de Dados: http://www.aloc.ufscar.br/felice/ensino/2022s2aed1/ae
 Homepage: https://www.andrebackes.com
 Youtube: https://www.youtube.com/@progdescomplicada/featured
 
+#### Scott Aaronson (Austin - Texas)
+Homepage: https://www.scottaaronson.com
+
 ---
 ## Página de Outros Institutos
 
