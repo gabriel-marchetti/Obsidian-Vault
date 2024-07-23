@@ -1,1 +1,1 @@
-The most accurate place to find informations and specifications about Javascript is by:  but it's kind of Difficult
+The most accurate place to find informations and specifications about Javascript is by: [ECMAScript](https://ecma-international.org/publications-and-standards/standards/ecma-262/) but it's kind of Difficult to read it, so it's not a everyday task. A new specification is released every year.
