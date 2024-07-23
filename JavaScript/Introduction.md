@@ -4,3 +4,7 @@ Javascript programs can run as long as we have installed the *JavaScript Engine*
 
 - V8 -> Chrome, Opera and Edge.
 - SpiderMonkey -> Firefox
+
+Javascript is a safe language in the sense that you don't need to handle the memory, i.e., it does not have access to low-level programming. It's capabilities depends on the environment that you are running it.
+
+Javascript (in webpage terms) does not have access to functionalities of the OS of the user. 
