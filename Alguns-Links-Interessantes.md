@@ -11,6 +11,11 @@ Youtube: https://www.youtube.com/@progdescomplicada/featured
 #### Scott Aaronson (Austin - Texas)
 Homepage: https://www.scottaaronson.com
 
+#### Chris Tralie (Ursinus College) 
+Homepage: https://www.ctralie.com
+Youtube: https://www.youtube.com/@ctralie
+
+
 ---
 ## Página de Outros Institutos
 
