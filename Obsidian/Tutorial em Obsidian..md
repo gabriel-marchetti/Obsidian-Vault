@@ -14,7 +14,7 @@ Isto é um link [Link](www.google.com).
 
 # Referenciando outras páginas Obsidian
 
-Uma coisa interessante para acessar outras páginas dentro do Obsidian dinamicamente é através do double-bracket, isto é, se fizermos [[Teste]] então poderemos acessar uma nova página dentro do obsidian quase que de forma instantânea! Se não tivermos a pasta ou o arquivo criado, ele cria de forma automática!
+Uma coisa interessante para acessar outras páginas dentro do Obsidian dinamicamente é através do double-bracket, isto é, se fizermos [[Obsidian/Teste]] então poderemos acessar uma nova página dentro do obsidian quase que de forma instantânea! Se não tivermos a pasta ou o arquivo criado, ele cria de forma automática!
 
 
 # Imagens 
