@@ -11,12 +11,8 @@
             "id": "cc99e69fd3b92852",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +141,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc99e69fd3b92852",
+  "active": "2cd21c723d78ad1c",
   "lastOpenFiles": [
     "Obsidian-Vault",
     "Alguns-Links-Interessantes.md",
