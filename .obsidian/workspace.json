@@ -11,8 +11,12 @@
             "id": "cc99e69fd3b92852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VSCode/Configured-Shortcuts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VSCode/Configured-Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VSCode/Configured-Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste.md"
+                "file": "VSCode/Configured-Shortcuts.md"
               }
             }
           }
@@ -141,11 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cd21c723d78ad1c",
+  "active": "cc99e69fd3b92852",
   "lastOpenFiles": [
+    "Teste.md",
     "Obsidian-Vault",
     "Alguns-Links-Interessantes.md",
-    "Teste.md",
     "README.md"
   ]
 }
