@@ -1,0 +1,3 @@
+Utilizar um Software para simular um Hardware.
+
+kasdjakdasjdkasdjaskdajdkasdjaksdjsakdadjkaadksdjaskdajskdasjdkasjdksadjaskdjasdkasjdskadjasjdkasdksadjask

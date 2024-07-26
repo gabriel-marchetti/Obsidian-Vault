@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSCode/Configured-Shortcuts.md",
+                "file": "Flutter/Damasceno/Virtualization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VSCode/Configured-Shortcuts.md",
+                "file": "Flutter/Damasceno/Virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VSCode/Configured-Shortcuts.md",
+                "file": "Flutter/Damasceno/Virtualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VSCode/Configured-Shortcuts.md"
+                "file": "Flutter/Damasceno/Virtualization.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "cc99e69fd3b92852",
   "lastOpenFiles": [
+    "VSCode/Configured-Shortcuts.md",
+    "Flutter/Damasceno/Virtualization.md",
     "Teste.md",
     "Obsidian-Vault",
     "Alguns-Links-Interessantes.md",
