@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Damasceno/Virtualization.md",
+                "file": "Flutter/Damasceno/Algoritmo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/Damasceno/Virtualization.md",
+                "file": "Flutter/Damasceno/Algoritmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/Damasceno/Virtualization.md",
+                "file": "Flutter/Damasceno/Algoritmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Damasceno/Virtualization.md"
+                "file": "Flutter/Damasceno/Algoritmo.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "cc99e69fd3b92852",
   "lastOpenFiles": [
-    "Flutter/Damasceno/Android-Studio.md",
     "Flutter/Damasceno/Virtualization.md",
+    "Flutter/Damasceno/Algoritmo.md",
+    "Flutter/Damasceno/Android-Studio.md",
     "VSCode/Configured-Shortcuts.md",
     "Teste.md",
     "Obsidian-Vault",
