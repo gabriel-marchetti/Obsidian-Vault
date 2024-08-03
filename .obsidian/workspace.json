@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f13ba2be712de904",
+        "id": "aa6500c984a3c87d",
         "type": "tabs",
         "children": [
           {
-            "id": "42642631bf73634f",
+            "id": "b0064e63e9df7d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md"
+                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md"
               }
             }
           }
@@ -149,10 +149,16 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "42642631bf73634f",
+  "active": "b0064e63e9df7d1c",
   "lastOpenFiles": [
-    "Excel_Sheets/mc358_grade_manager.univer.md",
     "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
+    "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
+    "Images/mc358_schedule.png",
+    "Images/MC358_schedule.pdf",
+    "Images/Pasted image 20230706111427.png",
+    "Untitled",
+    "Unicamp/2024_segundo_semestre/MC358/Exercise_Manager.md",
+    "Excel_Sheets/mc358_grade_manager.univer.md",
     "Unicamp/2024_segundo_semestre/EA513/Introduction.md",
     "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC821/Introduction.md",
@@ -174,7 +180,6 @@
     "Flutter/Damasceno/Android-Studio.md",
     "VSCode/Configured-Shortcuts.md",
     "Teste.md",
-    "Obsidian-Vault",
     "Alguns-Links-Interessantes.md",
     "README.md"
   ]

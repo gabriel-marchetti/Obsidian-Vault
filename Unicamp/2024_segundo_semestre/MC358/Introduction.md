@@ -19,4 +19,9 @@ Se MS >= 6,0 => MF := MS
 	Senão MF := min(6,0 ; (MS+E)/2 )
 
 
-![[mc358_grade_manager.univer|B4:]]
+![[mc358_grade_manager.univer#Sheet1|B4:F11]]
+
+
+# Schedule:
+
+![[MC358_schedule.pdf]]
