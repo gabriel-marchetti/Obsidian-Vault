@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
+                "file": "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
+                "file": "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
+                "file": "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md"
+                "file": "Unicamp/2024_segundo_semestre/EA614/Introduction.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "b0064e63e9df7d1c",
   "lastOpenFiles": [
-    "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
+    "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
     "Images/mc358_schedule.png",
     "Images/MC358_schedule.pdf",
     "Images/Pasted image 20230706111427.png",
