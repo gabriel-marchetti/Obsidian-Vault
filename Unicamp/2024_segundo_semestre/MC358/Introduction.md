@@ -18,3 +18,5 @@ Se MS < 2,5 => MF := MS
 Se MS >= 6,0 => MF := MS
 	Senão MF := min(6,0 ; (MS+E)/2 )
 
+
+![[mc358_grade_manager.univer|B4:]]

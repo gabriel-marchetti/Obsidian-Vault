@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddcde523c03143f1",
+        "id": "f13ba2be712de904",
         "type": "tabs",
         "children": [
           {
-            "id": "80949d35bd944f37",
+            "id": "42642631bf73634f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,16 +144,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
+      "sheet-plus:Create excel file": false
     }
   },
-  "active": "80949d35bd944f37",
+  "active": "42642631bf73634f",
   "lastOpenFiles": [
-    "Unicamp/2024_segundo_semestre/MC821/Introduction.md",
-    "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
+    "Excel_Sheets/mc358_grade_manager.univer.md",
     "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
-    "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
     "Unicamp/2024_segundo_semestre/EA513/Introduction.md",
+    "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
+    "Unicamp/2024_segundo_semestre/MC821/Introduction.md",
+    "Excel 2024-08-03 10.56.06.univer.md",
+    "Excel_Sheets",
+    "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "conflict-files-obsidian-git.md",
     "Unicamp/2024_segundo_semestre/MC821",
     "Unicamp/2024_segundo_semestre/MC404",
