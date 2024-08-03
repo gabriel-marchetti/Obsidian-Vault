@@ -27,7 +27,7 @@
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
-  "dynamicStyling": "colorful",
+  "dynamicStyling": "gray",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
@@ -92,7 +92,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.10",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.13",
     "libraryItems": []
   },
   "imageElementNotice": true,

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c11fee448e8f9df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-03 14.06.46.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
+                "file": "Excalidraw/Drawing 2024-08-03 14.06.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
+                "file": "Excalidraw/Drawing 2024-08-03 14.06.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md"
+                "file": "Excalidraw/Drawing 2024-08-03 14.06.46.excalidraw.md"
               }
             }
           }
@@ -148,11 +159,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "395dbccad2380842",
+  "active": "7c11fee448e8f9df",
   "lastOpenFiles": [
+    "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
+    "Excalidraw/Drawing 2024-08-03 14.06.46.excalidraw.md",
+    "Excalidraw/paradoxoRussel_exemplo1.excalidraw.md",
     "New Text Document.txt",
     "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
-    "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
     "Pasted image 20240803130917.png",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Excel_Sheets/contest1.univer.md",
@@ -174,7 +187,6 @@
     "Unicamp/2024_segundo_semestre/EA614",
     "Unicamp/2024_segundo_semestre/EA513",
     "Unicamp/2024_segundo_semestre",
-    "Unicamp",
     "Flutter/Damasceno/Dart.md",
     "Untitled.md",
     "Flutter/Damasceno/Algoritmo.md",
