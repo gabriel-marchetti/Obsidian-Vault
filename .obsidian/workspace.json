@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa6500c984a3c87d",
+        "id": "d005b9a1c65b081c",
         "type": "tabs",
         "children": [
           {
-            "id": "b0064e63e9df7d1c",
+            "id": "395dbccad2380842",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Excel_Sheets/contest1.univer.md"
+                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel_Sheets/contest1.univer.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel_Sheets/contest1.univer.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel_Sheets/contest1.univer.md"
+                "file": "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md"
               }
             }
           }
@@ -147,12 +149,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "2cd21c723d78ad1c",
+  "active": "395dbccad2380842",
   "lastOpenFiles": [
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Excel_Sheets/contest1.univer.md",
+    "Pasted image 20240803130917.png",
     "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
-    "Unicamp/2024_segundo_semestre/MC358/Conjuntos.md",
+    "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
     "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
     "Images/mc358_schedule.png",
     "Images/MC358_schedule.pdf",
