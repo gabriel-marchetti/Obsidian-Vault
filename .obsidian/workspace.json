@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md"
+                "file": "Unicamp/2024_segundo_semestre/MC358/Introduction.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "395dbccad2380842",
   "lastOpenFiles": [
-    "Excalidraw/diagrama_analogicoDigitalCorrespondencia.excalidraw.md",
     "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+    "Excalidraw/diagrama_analogicoDigitalCorrespondencia.excalidraw.md",
     "Excalidraw/diagram_EA614_firstLecture.excalidraw.md",
     "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
     "Excalidraw/paradoxoRussel_exemplo2.md",
