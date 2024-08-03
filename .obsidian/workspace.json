@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca8d581dfe477937",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-03 14.33.54.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+                "file": "Excalidraw/Drawing 2024-08-03 14.33.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+                "file": "Excalidraw/Drawing 2024-08-03 14.33.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md"
+                "file": "Excalidraw/Drawing 2024-08-03 14.33.54.excalidraw.md"
               }
             }
           }
@@ -148,10 +159,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "395dbccad2380842",
+  "active": "ca8d581dfe477937",
   "lastOpenFiles": [
-    "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
     "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+    "Excalidraw/Drawing 2024-08-03 14.33.54.excalidraw.md",
+    "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
     "Excalidraw/paradoxoRussel_exemplo2.md",
     "Excalidraw/paradoxoRussel_exemplo1.excalidraw.md",
     "New Text Document.txt",
