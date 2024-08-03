@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "61a91bef28dfdd37",
+        "id": "3de97d5964555002",
         "type": "tabs",
         "children": [
           {
-            "id": "92a4eccad52bc68d",
+            "id": "cc99e69fd3b92852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Flutter/Damasceno/Dart.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flutter/Damasceno/Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flutter/Damasceno/Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/EA614.md"
+                "file": "Flutter/Damasceno/Dart.md"
               }
             }
           }
@@ -141,21 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2cd21c723d78ad1c",
+  "active": "cc99e69fd3b92852",
   "lastOpenFiles": [
-    "Unicamp/2024_segundo_semestre/MC821",
-    "Unicamp/2024_segundo_semestre/EA614",
-    "Unicamp/2024_segundo_semestre/MC404",
-    "Unicamp/2024_segundo_semestre/EA614.md",
-    "Flutter/Damasceno/Virtualization.md",
     "Untitled.md",
-    "Unicamp/2024_segundo_semestre/EA513",
-    "Unicamp/2024_segundo_semestre/MC358",
-    "Unicamp/2024_segundo_semestre",
-    "Unicamp",
-    "Flutter/Damasceno/Dart.md",
-    "Flutter/Damasceno/Android-Studio.md",
     "Flutter/Damasceno/Algoritmo.md",
+    "Flutter/Damasceno/Dart.md",
+    "Flutter/Damasceno/Virtualization.md",
+    "Flutter/Damasceno/Android-Studio.md",
     "VSCode/Configured-Shortcuts.md",
     "Teste.md",
     "Obsidian-Vault",
