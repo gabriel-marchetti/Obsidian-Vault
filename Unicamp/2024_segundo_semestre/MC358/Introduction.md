@@ -23,5 +23,4 @@ Se MS >= 6,0 => MF := MS
 
 
 # Schedule:
-
-![[MC358_schedule.pdf]]
+ ![[MC358_schedule.pdf]]
