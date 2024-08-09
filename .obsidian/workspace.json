@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "Processos-Seletivos/Eldorado_Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "Processos-Seletivos/Eldorado_Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "Processos-Seletivos/Eldorado_Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md"
+                "file": "Processos-Seletivos/Eldorado_Academy.md"
               }
             }
           }
@@ -150,6 +150,12 @@
   },
   "active": "395dbccad2380842",
   "lastOpenFiles": [
+    "Pensamento Computacional Python.md",
+    "Processos-Seletivos/Eldorado_Academy.md",
+    "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Processos-Seletivos",
     "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
     "Unicamp/2024_segundo_semestre/EA513/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
@@ -163,12 +169,10 @@
     "Excalidraw/paradoxoRussel_exemplo1.excalidraw.md",
     "New Text Document.txt",
     "Pasted image 20240803130917.png",
-    "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Excel_Sheets/contest1.univer.md",
     "Images/mc358_schedule.png",
     "Images/MC358_schedule.pdf",
     "Images/Pasted image 20230706111427.png",
-    "Untitled",
     "Unicamp/2024_segundo_semestre/MC358/Exercise_Manager.md",
     "Excel 2024-08-03 10.56.06.univer.md",
     "Excel_Sheets",
@@ -180,13 +184,10 @@
     "Unicamp/2024_segundo_semestre/EA513",
     "Unicamp/2024_segundo_semestre",
     "Flutter/Damasceno/Dart.md",
-    "Untitled.md",
     "Flutter/Damasceno/Algoritmo.md",
     "Flutter/Damasceno/Virtualization.md",
     "Flutter/Damasceno/Android-Studio.md",
     "VSCode/Configured-Shortcuts.md",
-    "Teste.md",
-    "Alguns-Links-Interessantes.md",
-    "README.md"
+    "Teste.md"
   ]
 }
