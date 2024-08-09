@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Processos-Seletivos/Eldorado_Academy.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Processos-Seletivos/Eldorado_Academy.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Processos-Seletivos/Eldorado_Academy.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Processos-Seletivos/Eldorado_Academy.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "395dbccad2380842",
   "lastOpenFiles": [
-    "Pensamento Computacional Python.md",
     "Processos-Seletivos/Eldorado_Academy.md",
+    "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
+    "Pensamento Computacional Python.md",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -187,7 +188,6 @@
     "Flutter/Damasceno/Algoritmo.md",
     "Flutter/Damasceno/Virtualization.md",
     "Flutter/Damasceno/Android-Studio.md",
-    "VSCode/Configured-Shortcuts.md",
-    "Teste.md"
+    "VSCode/Configured-Shortcuts.md"
   ]
 }
