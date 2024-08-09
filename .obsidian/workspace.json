@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "395dbccad2380842",
   "lastOpenFiles": [
-    "Processos-Seletivos/Eldorado_Academy.md",
+    "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
+    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
+    "Processos-Seletivos/Eldorado_Academy.md",
     "Pensamento Computacional Python.md",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Untitled.md",
@@ -159,7 +161,6 @@
     "Processos-Seletivos",
     "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
     "Unicamp/2024_segundo_semestre/EA513/Introduction.md",
-    "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
     "Excel_Sheets/mc358_grade_manager.univer.md",
     "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
@@ -187,7 +188,6 @@
     "Flutter/Damasceno/Dart.md",
     "Flutter/Damasceno/Algoritmo.md",
     "Flutter/Damasceno/Virtualization.md",
-    "Flutter/Damasceno/Android-Studio.md",
-    "VSCode/Configured-Shortcuts.md"
+    "Flutter/Damasceno/Android-Studio.md"
   ]
 }
