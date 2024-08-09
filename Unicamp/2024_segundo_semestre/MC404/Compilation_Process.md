@@ -12,3 +12,19 @@ Todos os arquivos com extensão ".s" passam por um processo de objetificação, 
 Por último, temos a parte de linkagem dos arquivos objeto e das bibliotecas. O resultado final é um executável.
 
 ![[Processo_compilacao_GNU.png]]
+
+### Desenvolvimento
+Cada um desses processos admite um comando dentro do terminal
+vamos supor que estejamos trabalhando no arquivo "prog.c"
+
+```shell
+clang-15 --target=riscv32 -march=rv32g -mabi=ilp32d -mno-relax prog.c -S -o prog.s
+```
+
+Aqui geramos o arquivo em linguagem de montagem.
+
+```shell
+clang-15 --target=riscv32 -march=rv32g -mabi=ilp32d -mno-relax prog.s -c -o prog.o
+```
+
+Aqui geramos o arquivo binário sem conexão entre os 
