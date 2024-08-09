@@ -151,8 +151,9 @@
   "active": "395dbccad2380842",
   "lastOpenFiles": [
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
-    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
+    "Images/Processo_compilacao_GNU.png",
+    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Processos-Seletivos/Eldorado_Academy.md",
     "Pensamento Computacional Python.md",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
@@ -187,7 +188,6 @@
     "Unicamp/2024_segundo_semestre",
     "Flutter/Damasceno/Dart.md",
     "Flutter/Damasceno/Algoritmo.md",
-    "Flutter/Damasceno/Virtualization.md",
-    "Flutter/Damasceno/Android-Studio.md"
+    "Flutter/Damasceno/Virtualization.md"
   ]
 }
