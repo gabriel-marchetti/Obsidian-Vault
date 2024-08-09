@@ -5,7 +5,18 @@ A nosso compilador de linguagem de montagem não faz isso de maneira automática
 ```C
 void exit(int code){
 	__asm__ __volatile__(
-		"mv a"	
+		"mv a0, %0    #return code\n"	
+		"li a7, 93    #syscall exit(64)\n"
+		"ecall"
+		:    // Output List
+		:"r"(code) // Input List
+		:"a0", "a7"
 	);
 }
+
+void _start(){
+	int ret_code = main();
+	exit(ret_code);
+}
 ```
+
