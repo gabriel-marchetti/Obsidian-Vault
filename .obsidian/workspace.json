@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   },
   "active": "395dbccad2380842",
   "lastOpenFiles": [
+    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Untitled.md",
-    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
     "Images/Processo_compilacao_GNU.png",
     "Processos-Seletivos/Eldorado_Academy.md",
@@ -188,7 +189,6 @@
     "Unicamp/2024_segundo_semestre/EA513",
     "Unicamp/2024_segundo_semestre",
     "Flutter/Damasceno/Dart.md",
-    "Flutter/Damasceno/Algoritmo.md",
-    "Flutter/Damasceno/Virtualization.md"
+    "Flutter/Damasceno/Algoritmo.md"
   ]
 }
