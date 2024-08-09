@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise1.md"
               }
             }
           }
@@ -150,14 +150,15 @@
   },
   "active": "395dbccad2380842",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
+    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
     "Images/Processo_compilacao_GNU.png",
-    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Processos-Seletivos/Eldorado_Academy.md",
     "Pensamento Computacional Python.md",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Processos-Seletivos",
     "Unicamp/2024_segundo_semestre/EA614/Introduction.md",

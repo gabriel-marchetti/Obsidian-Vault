@@ -27,4 +27,16 @@ Aqui geramos o arquivo em linguagem de montagem.
 clang-15 --target=riscv32 -march=rv32g -mabi=ilp32d -mno-relax prog.s -c -o prog.o
 ```
 
-Aqui geramos o arquivo binário sem conexão entre os 
+Aqui geramos o arquivo binário sem conexão entre os arquivos.
+
+```shell
+ld.lld prog.o -o prog.x
+```
+
+Aqui geramos finalmente o arquivo executável. Veja que se tivermos diversos arquivos ".o" então precisaremos linkar todos eles aqui no final.
+
+Veja que esse processo é muito chato. Por conta disso podemos utilizar o Makefile para automatizar boa parte do processo.
+
+Manual Makefile: https://www.gnu.org/software/make/manual/make.html#Simple-Makefile
+
+Página tutorial Makefile: https://pt.wikibooks.org/wiki/Programar_em_C/Makefiles
