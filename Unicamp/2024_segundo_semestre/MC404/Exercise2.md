@@ -116,3 +116,4 @@ int main()
 
 ```
 
+OBS: Para não termos que alocar espaço extra dentro de "my_string" podemos criar um buffer auxiliar para armazenar apenas a quebra de linha.
