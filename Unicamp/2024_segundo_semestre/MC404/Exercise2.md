@@ -41,7 +41,31 @@ int read(int __fd, const void *__buf, int __n){
 	"mv a0, %1 # file descriptor\n"	
 	"mv a1, %2 # buffer\n"
 	"mv a2, %3 # size\n"
-	"li a7, 63 # syscall read code (63)"  
+	"li a7, 63 # syscall read code (63)\n"
+	"ecall     # invoke syscall\n" 
+	"mv %0, a0 # move return value ret_val\n"
+	: "=r"(ret_val) // Output List
+	: "r"(__fd), "r"(__buf), "r"(__n) // Input List
+	: "a0", "a1", "a2", "a7"
 	);
+	return ret_val;
 }
 ```
+
+Aqui podemos ver a utilidade do "file descriptor", uma vez que queremos ler as entradas do usuário então queremos utilizar o STDIN (0). Veja que necessitamos de alocar um buffer para essa função que possui um máximo de bytes. 
+
+Para utilizar essa função podemos fazer:
+```C
+/* Allocate the buffer that will be used. */
+char input_buffer[10];
+/* we expect some definition of read */
+extern int read(int, const void*, int);
+
+int main(){
+	int n = read(0, (void*) input_buffer, 10);
+
+	return 0;
+}
+
+```
+
