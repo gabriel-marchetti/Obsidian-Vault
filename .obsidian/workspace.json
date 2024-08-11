@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e52ae898590b28d",
+        "id": "1a7653d32244edb0",
         "type": "tabs",
         "children": [
           {
-            "id": "8f45706f6215601d",
+            "id": "b5d2a5c8c9c4b0ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +140,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8f45706f6215601d",
+  "active": "b5d2a5c8c9c4b0ab",
   "lastOpenFiles": [
-    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
+    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Untitled.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
