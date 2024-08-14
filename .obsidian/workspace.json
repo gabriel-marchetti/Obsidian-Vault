@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4afa3f334b62caa",
+        "id": "8cac0da945f8146f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e69d5412fecc84",
+            "id": "687c5babdd8bc69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Debugging a program.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Debugging a program.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Debugging a program.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Debugging a program.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_02.md"
               }
             }
           }
@@ -148,11 +148,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7e69d5412fecc84",
+  "active": "687c5babdd8bc69d",
   "lastOpenFiles": [
+    "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
-    "Unicamp/2024_segundo_semestre/MC404/Debugging a program.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Untitled.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",

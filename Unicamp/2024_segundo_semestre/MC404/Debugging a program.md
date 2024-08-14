@@ -1,1 +1,0 @@
-Similar à interface do GDB, temos a interface dentro do simulador do RISC-V. 
