@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7653d32244edb0",
+        "id": "8cac0da945f8146f",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d2a5c8c9c4b0ab",
+            "id": "687c5babdd8bc69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md"
               }
             }
           }
@@ -138,57 +138,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "sheet-plus:Create excel file": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5d2a5c8c9c4b0ab",
+  "active": "687c5babdd8bc69d",
   "lastOpenFiles": [
-    "Excel_Sheets/contest2.univer.md",
-    "Excel_Sheets/contest1.univer.md",
-    "Unicamp/2024_segundo_semestre/MC821/Notas.md",
-    "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
-    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
-    "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
-    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
-    "Untitled.md",
+    "Excel_Sheets/contest2.univer.md",
+    "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
-    "Images/Processo_compilacao_GNU.png",
+    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
+    "Untitled.md",
+    "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
+    "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Processos-Seletivos/Eldorado_Academy.md",
-    "Pensamento Computacional Python.md",
-    "Untitled 1.md",
     "Processos-Seletivos",
-    "Unicamp/2024_segundo_semestre/EA614/Introduction.md",
+    "Images/Processo_compilacao_GNU.png",
+    "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Unicamp/2024_segundo_semestre/EA513/Introduction.md",
-    "Unicamp/2024_segundo_semestre/MC358/Introduction.md",
     "Excel_Sheets/mc358_grade_manager.univer.md",
-    "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
+    "Excel_Sheets/contest1.univer.md",
+    "Excel_Sheets",
     "Excalidraw/paradoxoRussel_exemplo2.md",
-    "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
+    "Excalidraw/paradoxoRussel_exemplo1.excalidraw.md",
     "Excalidraw/diagrama_analogicoDigitalCorrespondencia.excalidraw.md",
     "Excalidraw/diagram_EA614_firstLecture.excalidraw.md",
-    "Excalidraw/paradoxoRussel_exemplo1.excalidraw.md",
-    "New Text Document.txt",
-    "Pasted image 20240803130917.png",
-    "Images/mc358_schedule.png",
-    "Images/MC358_schedule.pdf",
-    "Images/Pasted image 20230706111427.png",
-    "Unicamp/2024_segundo_semestre/MC358/Exercise_Manager.md",
-    "Excel 2024-08-03 10.56.06.univer.md",
-    "Excel_Sheets",
-    "conflict-files-obsidian-git.md",
+    "Unicamp/2024_segundo_semestre/MC821/Introduction 1.md",
+    "Unicamp/2024_segundo_semestre/MC404/Introduction 1.md",
+    "Unicamp/2024_segundo_semestre/MC358/Introduction 1.md",
+    "Unicamp/2024_segundo_semestre/EA614/Introduction 1.md",
+    "Unicamp/2024_segundo_semestre/EA513/Untitled",
     "Unicamp/2024_segundo_semestre/MC821",
-    "Unicamp/2024_segundo_semestre/MC404",
-    "Unicamp/2024_segundo_semestre/MC358",
     "Unicamp/2024_segundo_semestre/EA614",
+    "Unicamp/2024_segundo_semestre/MC404",
+    "Unicamp/2024_segundo_semestre/EA614.md",
+    "Flutter/Damasceno/Virtualization.md",
     "Unicamp/2024_segundo_semestre/EA513",
-    "Unicamp/2024_segundo_semestre"
+    "Unicamp/2024_segundo_semestre/MC358",
+    "Unicamp/2024_segundo_semestre",
+    "Unicamp",
+    "Flutter/Damasceno/Dart.md",
+    "Flutter/Damasceno/Android-Studio.md",
+    "Flutter/Damasceno/Algoritmo.md"
   ]
 }
