@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
+                "file": "Vim/Vim-Motions.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
+                "file": "Vim/Vim-Motions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
+                "file": "Vim/Vim-Motions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md"
+                "file": "Vim/Vim-Motions.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "687c5babdd8bc69d",
   "lastOpenFiles": [
-    "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
     "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
+    "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Excel_Sheets/contest2.univer.md",
