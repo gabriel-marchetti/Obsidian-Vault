@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
+                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
+                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
+                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Exercise2.md"
+                "file": "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "687c5babdd8bc69d",
   "lastOpenFiles": [
+    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
+    "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Excel_Sheets/contest2.univer.md",
     "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
     "Unicamp/2024_segundo_semestre/MC404/Manual_Simulador.md",
-    "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
     "Untitled.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
     "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
@@ -185,7 +186,6 @@
     "Unicamp/2024_segundo_semestre",
     "Unicamp",
     "Flutter/Damasceno/Dart.md",
-    "Flutter/Damasceno/Android-Studio.md",
-    "Flutter/Damasceno/Algoritmo.md"
+    "Flutter/Damasceno/Android-Studio.md"
   ]
 }
