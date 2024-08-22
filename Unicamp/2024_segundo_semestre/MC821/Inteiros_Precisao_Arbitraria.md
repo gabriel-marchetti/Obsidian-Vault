@@ -15,3 +15,6 @@ struct BigNum{
 ```
 
 Veja que aqui, por questão de conveniência, iremos usar que o índice zero dentro do array será equivalente ao dígito menos significativo.
+
+![[arbitraryIntegerPrecisionExample.excalidraw]]
+
