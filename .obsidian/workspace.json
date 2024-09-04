@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Vim-Motions.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Vim-Motions.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Vim-Motions.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim-Motions.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Introduction.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "687c5babdd8bc69d",
   "lastOpenFiles": [
+    "Vim/Vim-Motions.md",
     "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
     "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
@@ -195,7 +196,6 @@
     "Unicamp/2024_segundo_semestre/EA513",
     "Unicamp/2024_segundo_semestre/MC358",
     "Unicamp/2024_segundo_semestre",
-    "Unicamp",
-    "Flutter/Damasceno/Dart.md"
+    "Unicamp"
   ]
 }
