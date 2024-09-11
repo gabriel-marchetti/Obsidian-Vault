@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_04.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_04.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_04.md",
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_04.md"
+                "file": "Unicamp/2024_segundo_semestre/MC404/Lab_05.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "687c5babdd8bc69d",
   "lastOpenFiles": [
-    "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Unicamp/2024_segundo_semestre/MC404/Lab_04.md",
+    "Unicamp/2024_segundo_semestre/MC404/Lab_05.md",
+    "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Vim/Vim-Motions.md",
     "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
     "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
@@ -182,7 +183,6 @@
     "Unicamp/2024_segundo_semestre/MC821",
     "Unicamp/2024_segundo_semestre/EA614",
     "Unicamp/2024_segundo_semestre/MC404",
-    "Unicamp/2024_segundo_semestre/EA614.md",
     "Unicamp/2024_segundo_semestre/EA513",
     "Unicamp/2024_segundo_semestre/MC358",
     "Unicamp/2024_segundo_semestre",
