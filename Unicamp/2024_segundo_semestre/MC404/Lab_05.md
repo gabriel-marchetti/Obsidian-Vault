@@ -49,4 +49,12 @@ sub a4, a5, a6 # a4 := a5 - a6
 ```
 
 ## Dealing with large immediate
-Notemos que todas as operações do RV32I são codificados em algum número de 32-bits. Portanto, fica claro que temos uma aparente limitação se estamos trabalhando com imediatos grandes, uma vez que teremos menos do que 
+Notemos que todas as operações do RV32I são codificados em algum número de 32-bits. Portanto, fica claro que temos uma aparente limitação se estamos trabalhando com imediatos grandes, uma vez que teremos menos do que 32-bits para codificar a instrução e o imediato. Se formos analisar mais a fundo esse problema, veremos que os imediatos podem ser convertidos em no máximo 12 bits com sinal. Portanto, o programador poderia lidar com isso através de diversas operações nos registradores.
+
+Contudo, as pessoas são menos malucos do que pensamos e por isso criaram uma pseudo-instrução que lida com isso.
+
+```
+li rd, imm
+```
+
+## Shift Instructions
