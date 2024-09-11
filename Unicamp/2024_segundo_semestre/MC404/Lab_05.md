@@ -29,3 +29,24 @@ x1-x31 -> registradores de propósito geral, contudo, temos uma convenção.
 ## Load/Store Architecture.
 A arquitetura RV32I possui o padrão de operação de carregar/salvar dados na memória. Isto é, antes de realizar uma operação de um inteiro já conhecido, primeiro temos que olhar para seu conteúdo da memória e depois de realizar as operações temos que salvá-lo na memória.
 
+## Logic, shift and arithmetic 
+Todas essa operações possuem um padrão do Mnemônico seguido de três operandos. O primeiro operando é o alvo que irá receber o resultado da operação, enquanto os outros dois são os argumentos da operação.
+
+```
+MNM rd, rs1, rs2
+MNM rd, rs1, imm
+```
+
+rd: target register
+rs1: first operand register
+rs2: second operand register
+imm: immediate.
+
+```rv32
+and a0, a2, a6 # a0 := a2 & a6
+slli a1, a3, 2 # a1 := a3 << 2
+sub a4, a5, a6 # a4 := a5 - a6
+```
+
+## Dealing with large immediate
+Notemos que todas as operações do RV32I são codificados em algum número de 32-bits. Portanto, fica claro que temos uma aparente limitação se estamos trabalhando com imediatos grandes, uma vez que teremos menos do que 
