@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c22333ab1cd017da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,13 +161,16 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "b5d2a5c8c9c4b0ab",
+  "active": "c22333ab1cd017da",
   "lastOpenFiles": [
+    "Unicamp/2024_segundo_semestre/MC821/Notas.md",
+    "conflict-files-obsidian-git.md",
+    "Unicamp/2024_segundo_semestre/MC404/Lab_05.md",
+    "Unicamp/2024_segundo_semestre/MC404/Lab_04.md",
     "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
     "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
     "Excel_Sheets/contest2.univer.md",
     "Excel_Sheets/contest1.univer.md",
-    "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "Unicamp/2024_segundo_semestre/MC404/Lab_02.md",
     "Unicamp/2024_segundo_semestre/MC404/Compilation_Process.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise1.md",
@@ -175,14 +191,11 @@
     "Excalidraw/paradoxoRussel_exemplo2.md",
     "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
     "Excalidraw/diagrama_analogicoDigitalCorrespondencia.excalidraw.md",
-    "Excalidraw/diagram_EA614_firstLecture.excalidraw.md",
-    "Excalidraw/paradoxoRussel_exemplo1.excalidraw.md",
     "New Text Document.txt",
     "Pasted image 20240803130917.png",
     "Images/mc358_schedule.png",
     "Images/MC358_schedule.pdf",
     "Images/Pasted image 20230706111427.png",
-    "Unicamp/2024_segundo_semestre/MC358/Exercise_Manager.md",
     "Excel_Sheets",
     "Unicamp/2024_segundo_semestre/MC821",
     "Unicamp/2024_segundo_semestre/MC404",
