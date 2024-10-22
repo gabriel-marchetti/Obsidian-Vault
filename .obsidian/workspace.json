@@ -16,10 +16,25 @@
                 "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Notas"
+            }
+          },
+          {
+            "id": "2ca1b00bb8d5520e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notas"
             }
           },
           {
@@ -105,7 +128,9 @@
                 "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notas"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +153,9 @@
               "type": "outline",
               "state": {
                 "file": "Unicamp/2024_segundo_semestre/MC821/Notas.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notas"
             }
           }
         ]
@@ -148,7 +177,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "b5d2a5c8c9c4b0ab",
+  "active": "2ca1b00bb8d5520e",
   "lastOpenFiles": [
     "Excel_Sheets/contest2.univer.md",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
