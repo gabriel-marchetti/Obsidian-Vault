@@ -18,5 +18,8 @@ Primeiro devemos entender que há dois estágios dentro do processo de compilaç
 
 ![[Diagrama_execucao]]
 
-Note um detalhe importante de qual o nome do arquivo que adicionamos na diretiva "include". Veja que estamos com "stdio.h" o '.h' é o que indicamos como o "header" do arquivo. Dentro desse arquivo temos os cabeçalhos das funções que são definidas pelo arquivo "stdio.c" que contém diversas funções 
+Note um detalhe importante de qual o nome do arquivo que adicionamos na diretiva "include". Veja que estamos com "stdio.h" o '.h' é o que indicamos como o "header" do arquivo. Dentro desse arquivo temos os cabeçalhos das funções que são definidas pelo arquivo "stdio.c" que contém diversas funções para entrada e saída de arquivos.
+OBS: Veja que hoje em dia é muito dificil que linguagens modernas tenham uma definição tão explícita de um cabeçalho. Mas lembre que C é uma linguagem antiga e seu desenvolvimento muitas vezes se deu sem o auxílio de uma IDE.
+
+
 
