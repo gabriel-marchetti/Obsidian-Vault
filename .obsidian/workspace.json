@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ebd519d5963c0e2",
+        "id": "c33a95a6db6002ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9449dd97660c4471",
+            "id": "fcda2903dbc2e2d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,9 +164,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "9449dd97660c4471",
+  "active": "2cd21c723d78ad1c",
   "lastOpenFiles": [
     "C++/BeejGuide/1 - Hello World.md",
+    "C++/BeejGuide/Diagrama_execucao.md",
     "Unicamp/2024_segundo_semestre/MC821/Notas.md",
     "C++/BeejGuide",
     "Excel_Sheets/contest2.univer.md",
@@ -194,7 +195,6 @@
     "Excel_Sheets/mc358_grade_manager.univer.md",
     "Unicamp/2024_segundo_semestre/MC358/Aula_01_08.md",
     "Excalidraw/paradoxoRussel_exemplo2.md",
-    "Unicamp/2024_segundo_semestre/EA614/Aula_02_08.md",
     "New Text Document.txt",
     "Pasted image 20240803130917.png",
     "Images/mc358_schedule.png",

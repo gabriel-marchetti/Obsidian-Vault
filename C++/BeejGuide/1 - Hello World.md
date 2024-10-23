@@ -12,4 +12,11 @@ int main(void){
 }
 ```
 
-Eu já estou can
+Eu já estou cansado de ver o que esse código faz, mas algumas palavras interessantes foram citadas e acho que elas irão agregar no meu conhecimento. Especificamente na parte "include <stdio.h>", afinal o que essa linha faz e por que ela é tão importante para o trecho de código? Visto que se retirarmos ela nada acontece.
+
+Primeiro devemos entender que há dois estágios dentro do processo de compilação: o pré-processamento e a compilação. Tudo que começa com "#" é operado pelo pré-processamento, chamamos algumas rotinas específicas de diretivas do pré-processamento, alguns exemplos comuns disso são "define" e "include".
+
+![[Diagrama_execucao]]
+
+Note um detalhe importante de qual o nome do arquivo que adicionamos na diretiva "include". Veja que estamos com "stdio.h" o '.h' é o que indicamos como o "header" do arquivo. Dentro desse arquivo temos os cabeçalhos das funções que são definidas pelo arquivo "stdio.c" que contém diversas funções 
+
