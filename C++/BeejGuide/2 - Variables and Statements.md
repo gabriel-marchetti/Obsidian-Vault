@@ -4,4 +4,11 @@ Nesse sentido, podemos pensar na memória principal do programa como sendo um gr
 
 Veja aqui que há um problema especialmente limitante para os computadores se adotarmos uma CPU que tenha 32-bits. Temos a limitação de que a memória principal de tal CPU pode ter no máximo 4 GB, que nos padrões de hoje é pouca memória. Mais especificamente temos uma memória de 4_294_967_296 bytes. Veja que uma CPU de 64-bits possuirá $2^{32}$ vezes esse valor.
 
-Deixando a divagação de lado, veja que cada índice dessa abstração em array da memória principal
+Deixando a divagação de lado, veja que cada índice dessa abstração em array da memória principal é única e usualmente dizemos que esse é o endereço da memória, outro nome usual para isso é ponteiro. Veja que a definição de um nome para uma variável nada mais nos diz que a posição de memória X espera receber um valor característico.
+
+## Variable names
+1. O nome de uma variável não deve começar com um número.
+2. O nome de uma variável não deve começar com dois "underscores".
+3. O nome de uma variável não deve começar com um "underscore" e uma letra maiúscula.
+
+
