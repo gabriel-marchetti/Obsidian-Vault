@@ -65,3 +65,5 @@ O operador ternário consegue ser usado para controlar o controle de execução 
 
 ## Pre-and-Post Increment-and-Decrement.
 Basicamente são os operadores i++ e ++i. Eles tem uma diferença muito sútil, mas que pode ser a causa de eventuais bugs.
+
+## The Comma Operator.
