@@ -31,3 +31,37 @@ printf("THE NUMBER: %d is %s.\n", x, (x % 2 == 0) ? "even" : "odd" );
 
 ```
 
+O autor comenta que o operador ternário não serve como controle de fluxo da execução de um programa. Contudo, fazendo o seguinte teste
+
+```C
+
+#include <stdio.h>
+#include <stdbool.h>
+
+int duplica(int x)
+{
+  return 2 * x;
+}
+
+int triplica(int x)
+{
+  return 3 * x;
+}
+
+int main()
+{
+  int number;
+  printf("Se for par duplica, se for ímpar triplica\n");
+  scanf("%d", &number);
+
+  number = (number % 2 == 0) ? duplica(number) : triplica(number); 
+  printf("Number: %d\n", number);
+
+  return 0;
+}
+```
+
+O operador ternário consegue ser usado para controlar o controle de execução do código.
+
+## Pre-and-Post Increment-and-Decrement.
+Basicamente são os operadores i++ e ++i. Eles tem uma diferença muito sútil, mas que pode ser a causa de eventuais bugs.
