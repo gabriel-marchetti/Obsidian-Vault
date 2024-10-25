@@ -25,6 +25,9 @@ Leia como: se (x > 10) for satisfeita, então some 17, senão some 37.
 
 Uso útil:
 
-```
+```C
+
+printf("THE NUMBER: %d is %s.\n", x, (x % 2 == 0) ? "even" : "odd" );
 
 ```
+
