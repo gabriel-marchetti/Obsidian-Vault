@@ -12,3 +12,19 @@ Deixando a divagação de lado, veja que cada índice dessa abstração em array
 3. O nome de uma variável não deve começar com um "underscore" e uma letra maiúscula.
 
 
+## Ternary Operator
+Dentro do C existe uma operação muito útil que reduz o código, tal operação é conhecida como operação ternária e substitui um "if".
+
+```C
+
+y += (x > 10) ? 17 : 37;
+
+```
+
+Leia como: se (x > 10) for satisfeita, então some 17, senão some 37.
+
+Uso útil:
+
+```
+
+```
