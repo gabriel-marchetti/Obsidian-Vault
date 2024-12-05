@@ -3,3 +3,12 @@ The previous sentence is more important when we think about the context of getti
 
 As the use of Open-Source projects has become widespread, the more easier it is to find users that know in-depth aspects of some software. More important, they usually are more friendly than developers. Not that they are harsh, but that they might think it is obvious by their context. But if your questions is great, then they will probably dive into answering it. Note that Good questions are a great tool for developing the understanding.
 
+### Before you ask
+- Search on the Web.
+- Read the Manual/FAQ
+- Inspection or Experimentation
+- Read Source Code
+
+OBS: It is a good practice to display what relevant information you've found in doing so.
+
+
