@@ -1,0 +1,1 @@
+It's not that difficult to get into a situation where you need to ask someone about a specific topic, in a way that finding answer on Google can be a dull task.
