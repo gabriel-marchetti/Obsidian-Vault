@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cac0da945f8146f",
+        "id": "04009ebffff27c18",
         "type": "tabs",
         "children": [
           {
-            "id": "bf8b88402acc3563",
+            "id": "3240450ff91cb094",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "961f0105d8861e13",
@@ -149,10 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf8b88402acc3563",
+  "active": "3240450ff91cb094",
   "lastOpenFiles": [
-    "Note-Taking.md",
     "Asking-Technical-Questions.md",
+    "Note-Taking.md",
     "Tools-Interesting-For-Workflow.md",
     "README.md",
     "Projetos para dar uma olhada..md",
