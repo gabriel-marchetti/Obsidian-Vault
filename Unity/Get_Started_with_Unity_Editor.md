@@ -8,3 +8,6 @@ Basic movement:
 - GIZMO: The cubic form in the top-right corner that helps with orientation
 - Perspective and Orthographic mode.
 
+
+Rotate Tool key: E
+Move Tool key: W
