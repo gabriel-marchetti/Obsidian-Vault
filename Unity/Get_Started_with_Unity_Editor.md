@@ -11,3 +11,4 @@ Basic movement:
 
 Rotate Tool key: E
 Move Tool key: W
+Scale tool key: R
