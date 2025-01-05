@@ -4,3 +4,7 @@ Basic movement:
 	Move Around: LEFT MOUSE + WASD
 	Frame Something: Select it + F (Frame)
 	Revolve Around: ALT + MOUSE
+
+- GIZMO: The cubic form in the top-right corner that helps with orientation
+- Perspective and Orthographic mode.
+
