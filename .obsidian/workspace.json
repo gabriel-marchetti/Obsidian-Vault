@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "079ef66f98562a7a",
+        "id": "80f3ac4a908c9b24",
         "type": "tabs",
         "children": [
           {
-            "id": "4d62f43f952ddfb2",
+            "id": "a1fabe1e731bd7a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/LearnCpp/1.2 - Comments.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.2 - Comments"
+              "title": "New tab"
             }
           }
         ]
@@ -164,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d62f43f952ddfb2",
+  "active": "a1fabe1e731bd7a0",
   "lastOpenFiles": [
-    "C++/LearnCpp/1.1 - Estrutura de um programa.md",
     "C++/LearnCpp/1.2 - Comments.md",
+    "C++/LearnCpp/1.1 - Estrutura de um programa.md",
     "C++/LearnCpp/1 - Aprendendo C++ de fato!.md",
     "C++/LearnCpp/CompileSource-min.webp",
     "Asking-Technical-Questions.md",
