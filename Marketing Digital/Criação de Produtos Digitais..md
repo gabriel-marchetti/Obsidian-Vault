@@ -26,7 +26,7 @@ O que é um produto digital:
 	- Identidade Produto
 - PPCAI
 - Esqueleto
-- VME
+- VME (Validação Menor Esforço)
 - VVV
 - PPS
 - Mandala 2x (Anúncios)
