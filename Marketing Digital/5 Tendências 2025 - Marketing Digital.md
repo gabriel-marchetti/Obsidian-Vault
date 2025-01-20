@@ -21,6 +21,3 @@ Como é o desenrolar básica de uma nova tendência. Há uma pequena discussão 
 **Volta do conteúdo longo:** Menos concorrência para vídeos longos. Basicamente, várias pessoas estão anunciando em vídeos curtos, enquanto menos pessoas anunciam em vídeos longos. Mesmo que haja a viralização de vídeos pequenos a conversão é baixa. Além disso, passa mais credibilidade do conteúdo.
 
 **Básico bem feito:** POF - Produto, Oferta e Funis. Basicamente, oferecer um produto de qualidade. Além disso, parece ser a base mais sólida dentro do Marketing, de fato oferecer um produto de qualidade é para ser o foco.
-
-
-
