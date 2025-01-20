@@ -11,10 +11,14 @@
             "id": "a1fabe1e731bd7a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Marketing Digital/Tendências 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tendências 2025"
             }
           }
         ]
@@ -162,6 +166,8 @@
   },
   "active": "a1fabe1e731bd7a0",
   "lastOpenFiles": [
+    "Marketing Digital/Tendências 2025.md",
+    "Marketing Digital",
     "C++/LearnCpp/1.2 - Comments.md",
     "C++/LearnCpp/1.1 - Estrutura de um programa.md",
     "C++/LearnCpp/1 - Aprendendo C++ de fato!.md",
@@ -191,14 +197,12 @@
     "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
     "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
     "Unicamp/2024_segundo_semestre/MC404/Exercise2.md",
-    "Excel_Sheets/contest2.univer.md",
     "Processos-Seletivos",
     "Images/Processo_compilacao_GNU.png",
     "Excel_Sheets",
     "Unicamp/2024_segundo_semestre/EA513/Untitled",
     "Unicamp/2024_segundo_semestre/MC821",
     "Unicamp/2024_segundo_semestre/EA614",
-    "Unicamp/2024_segundo_semestre/MC404",
-    "Unicamp/2024_segundo_semestre/EA513"
+    "Unicamp/2024_segundo_semestre/MC404"
   ]
 }
