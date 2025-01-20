@@ -16,12 +16,71 @@ O que é um produto digital:
 
 ## Crescimento Exponencial Estruturado - CEE
 ### Etapa 1:
-- QFD
+- QFD (Método Japonês para transformar a voz do cliente em características do produto).
+	- Qualidade 
+	- Função 
+	- Desdobramento
 - 3is
+	- Identidade Vendedor (Comunicados)
+	- Identidade Consumidor
+	- Identidade Produto
 - PPCAI
 - Esqueleto
 - VME
 - VVV
 - PPS
 - Mandala 2x
-- 
+
+### Etapa 2:
+- Resgate automação
+- Resgate humano
+- ACD
+- ARA
+- Mandala 3x
+- Pitch de zoom
+
+
+### Etapa 3:
+- Multiplicação de Horas:
+	- Suporte
+	- ADM
+	- Vídeo e criação
+- Construção de base
+	- Seguidor
+	- Lista e %
+- Dominação Youtube
+- Mandala 4x
+- Pico de Vendas
+- Esteira Inteligente
+
+### Etapa 4:
+- Esteira Inteligente
+- Projeto Gestão
+	- Cultura
+	- Impostos
+	- Relatórios 
+	- Fluxos
+- Multiplicação de Horas
+	- Tráfego
+	- Copy
+- Blog de Resultados
+- Dominação Google
+- Primeira Grande Melhoria
+- Collabs de responsa
+- Eventos 2x
+- Proteção de Marca
+- Pico de Vendas 3x
+- Mandala 6x
+
+### Etapa 5:
+- Multiplicação de horas TI
+	- Projeto Popularidade
+	- Livro
+	- Assessoria de Imprensa
+	- Youtube pop
+	- Instagram pop
+- Mandala 10x
+- Market place
+- Plano de equity
+
+
