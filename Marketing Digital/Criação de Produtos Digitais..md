@@ -17,9 +17,9 @@ O que é um produto digital:
 ## Crescimento Exponencial Estruturado - CEE
 ### Etapa 1:
 - QFD (Método Japonês para transformar a voz do cliente em características do produto).
-	- Qualidade 
-	- Função 
-	- Desdobramento
+	- Qualidade
+	- Função
+	- Desdobramento (Decorado)
 - 3is
 	- Identidade Vendedor (Comunicados)
 	- Identidade Consumidor
@@ -29,7 +29,10 @@ O que é um produto digital:
 - VME
 - VVV
 - PPS
-- Mandala 2x
+- Mandala 2x (Anúncios)
+	- Ferramenta para criação de anúncios.
+	- Anúncios de Conversão
+	- Anúncios de Reconversão
 
 ### Etapa 2:
 - Resgate automação
@@ -37,8 +40,8 @@ O que é um produto digital:
 - ACD
 - ARA
 - Mandala 3x
+	- Adicionar lives mais aprofundadas.
 - Pitch de zoom
-
 
 ### Etapa 3:
 - Multiplicação de Horas:
