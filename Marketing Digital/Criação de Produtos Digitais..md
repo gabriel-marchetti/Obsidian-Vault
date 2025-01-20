@@ -87,3 +87,5 @@ O que é um produto digital:
 - Plano de equity
 
 
+A Mandala parece trazer ideias para criação de conteúdos. Por exemplo, a parte de urgências ocultas como algo relacionado com insônia (Impacto Visual).
+
