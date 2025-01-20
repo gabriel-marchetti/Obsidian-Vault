@@ -14,4 +14,13 @@ Como é o desenrolar básica de uma nova tendência. Há uma pequena discussão 
 ## Previsões.
 **Conversational Marketing:** Marketing é feito através de uma conversa do Whatsapp ou no Instagram. Aumenta drasticamente a conversão de um possível consumidor. Hoje é comentado que esse tipo de negócio é Underpriced. 
 
-**Automações Inteligentes:** 
+**Automações Inteligentes:** Há um afunilamento dos possíveis compradores. Nesse sentido, veja que usar apenas humanos nessa operações pode ser muito caro, então usar um tipo de automação para haver mais conversão do público é ótimo.
+
+**Inteligência Artificial:** Consegue interpretar mais a dúvida do cliente.
+
+**Volta do conteúdo longo:** Menos concorrência para vídeos longos. Basicamente, várias pessoas estão anunciando em vídeos curtos, enquanto menos pessoas anunciam em vídeos longos. Mesmo que haja a viralização de vídeos pequenos a conversão é baixa. Além disso, passa mais credibilidade do conteúdo.
+
+**Básico bem feito:** POF - Produto, Oferta e Funis. Basicamente, oferecer um produto de qualidade. Além disso, parece ser a base mais sólida dentro do Marketing, de fato oferecer um produto de qualidade é para ser o foco.
+
+
+
