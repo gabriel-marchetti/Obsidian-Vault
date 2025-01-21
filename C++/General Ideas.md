@@ -33,3 +33,16 @@ C++ supports
 	C++ is used in development of Smart-Watches and Various Types of medical machines.
 
 # Developers Grading
+Pre-Junior C++
+[] Create an Build Small Working Project in C++
+[] Use a debugger (Could be used in an IDE)
+[] Understand the compilation and linking process of C++
+[] Manipulate Reference and Pointers
+[] Know types of a memory used in an application
+[] Understand OOP
+
+-> Desire to acquire knowledge
+-> Desire to solve problems
+
+
+
