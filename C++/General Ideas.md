@@ -31,3 +31,5 @@ C++ supports
 	Most high-level languages that support machine-learning usually use C++ for math related problems.
 8) **Embedded Systems**
 	C++ is used in development of Smart-Watches and Various Types of medical machines.
+
+# Developers Grading
