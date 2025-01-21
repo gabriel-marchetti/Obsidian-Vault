@@ -1,3 +1,5 @@
+"You are solely responsible for your own development."
+
 C++ suffered from it's own paradigm which is "The developer doesn't pay for what they don't use". In practice, the developer must pay more attention to the dependencies that the project needs. 
 
 A general knowledge for c++ workflow is:
@@ -43,6 +45,5 @@ Pre-Junior C++
 
 -> Desire to acquire knowledge
 -> Desire to solve problems
-
 
 

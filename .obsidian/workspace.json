@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/General Ideas.md",
+                "file": "C++/Study_Guide/How to study C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Ideas"
+              "title": "How to study C++"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "6f11dad57e1f6342",
   "lastOpenFiles": [
-    "Marketing Digital/Criação de Produtos Digitais..md",
     "C++/General Ideas.md",
+    "C++/Study_Guide/How to study C++.md",
+    "C++/Study_Guide",
+    "Marketing Digital/Criação de Produtos Digitais..md",
     "Marketing Digital/5 Tendências 2025 - Marketing Digital.md",
     "Marketing Digital",
     "C++/LearnCpp/1.2 - Comments.md",
@@ -196,13 +198,11 @@
     "Unicamp/2024_segundo_semestre/MC404/Lab_04.md",
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Vim/Vim-Motions.md",
-    "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
     "Processos-Seletivos",
     "Images/Processo_compilacao_GNU.png",
     "Excel_Sheets",
     "Unicamp/2024_segundo_semestre/EA513/Untitled",
     "Unicamp/2024_segundo_semestre/MC821",
-    "Unicamp/2024_segundo_semestre/EA614",
-    "Unicamp/2024_segundo_semestre/MC404"
+    "Unicamp/2024_segundo_semestre/EA614"
   ]
 }
