@@ -20,3 +20,9 @@ A general knowledge for c++ workflow is:
 	C++ has a wide variety of system level functions, which provides more ground to OS development.
 5) **Browser Rendering**
 	Since it needs to be fast.
+6) **Advanced Computation and Graphics**
+	Image Processing, real-time physical simulation, mobile sensor application and so on.
+7) **Libraries**
+	Most high-level languages that support machine-learning usually use C++ for math related problems.
+8) **Embedded Systems**
+	C++ is used in development of Smart-Watches and Various Types of medical machines.
