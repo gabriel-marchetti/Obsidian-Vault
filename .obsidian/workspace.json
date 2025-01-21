@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing Digital/Criação de Produtos Digitais..md",
+                "file": "C++/General Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criação de Produtos Digitais."
+              "title": "General Ideas"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "6f11dad57e1f6342",
   "lastOpenFiles": [
-    "Marketing Digital/5 Tendências 2025 - Marketing Digital.md",
     "Marketing Digital/Criação de Produtos Digitais..md",
+    "C++/General Ideas.md",
+    "Marketing Digital/5 Tendências 2025 - Marketing Digital.md",
     "Marketing Digital",
     "C++/LearnCpp/1.2 - Comments.md",
     "C++/LearnCpp/1.1 - Estrutura de um programa.md",
@@ -196,7 +197,6 @@
     "Unicamp/2024_segundo_semestre/MC404/Introduction.md",
     "Vim/Vim-Motions.md",
     "Unicamp/2024_segundo_semestre/MC821/Inteiros_Precisao_Arbitraria.md",
-    "Excalidraw/arbitraryIntegerPrecisionExample.excalidraw.md",
     "Processos-Seletivos",
     "Images/Processo_compilacao_GNU.png",
     "Excel_Sheets",
