@@ -1,10 +1,15 @@
-C++ suffered from it's own paradigm which is "The developer doesn't pay for what they don't use". In practice, the developer must pay more attention to the dependencies. 
+C++ suffered from it's own paradigm which is "The developer doesn't pay for what they don't use". In practice, the developer must pay more attention to the dependencies that the project needs. 
 
 A general knowledge for c++ workflow is:
 -> Arithmetic 
 -> Boolean Algebra
 -> Drawing Flowcharts
 -> Representation of Numbers in Different Systems.
+
+C++ supports
+-> Object-Oriented Programming
+-> Procedural Programming
+-> Generic Programming
 
 # Mainly uses of C++
 -> High performance.
