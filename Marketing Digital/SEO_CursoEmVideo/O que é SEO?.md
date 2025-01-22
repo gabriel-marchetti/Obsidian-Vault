@@ -25,7 +25,11 @@ O fator mais importante do SEO é gerar tráfego e autoridade de modo orgânico.
 ### Erros comuns.
 -> Não atender princípios básicos do SEO.
 -> Criar conteúdo sem estratégia e que o usuário não está procurando. Conteúdo original aqui ganha muito destaque.
--> Conseguir ranquear bem o conteúdo, mas a mensagem não ciclou corretamente entre as pessoas que você desejava alcançar
+-> Conseguir ranquear bem o conteúdo, mas a mensagem não circulou corretamente entre as pessoas que você desejava alcançar e, portanto, não gera conversões. 
+-> Não deixe o ego tomar conta do seu negócio. Cliques e visualizações não são o foco, para lojas por exemplo será o lucro, para canais do youtube o engajamento e o like.
+
+
+
 
 
 

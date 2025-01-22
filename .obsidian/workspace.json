@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e2e93217b3ffd0",
+        "id": "9be7f249c74d9982",
         "type": "tabs",
         "children": [
           {
-            "id": "6f11dad57e1f6342",
+            "id": "e284e2d1ae50c104",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f11dad57e1f6342",
+  "active": "e284e2d1ae50c104",
   "lastOpenFiles": [
-    "Marketing Digital/SEO_CursoEmVideo/O que vamos aprender no Curso de SEO.md",
     "Marketing Digital/SEO_CursoEmVideo/O que é SEO?.md",
+    "Marketing Digital/SEO_CursoEmVideo/O que vamos aprender no Curso de SEO.md",
     "Marketing Digital/Search Engine Optimization.md",
     "Marketing Digital/SEO_CursoEmVideo",
     "C++/Study_Guide/Where to find stuff to practice.md",
