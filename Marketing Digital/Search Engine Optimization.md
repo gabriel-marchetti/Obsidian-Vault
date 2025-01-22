@@ -10,4 +10,11 @@ Além disso, adicione conteúdos como
 
 2) Optimize Title Tag and Metadescription.
 Incluir a palavra-chave na meta-descrição do Link, preferencialmente colocá-lo na Title Tag.
--> Flows
+-> Flows in a sentence.
+-> Easy to Read.
+-> Appealing to Read.
+
+3) Google Search Console
+Isso basicamente te ajuda a criar formar de aparecer no Rank 1 dentro do Google.
+Nesse sentido, não basta apenas adicionar as palavras-chave e colocar sentenças malucas como keyword. É necessário adicionar conteúdo à medida que você percebe a necessidade de adicionar. Por exemplo, vamos supor que você faça uma receita de Bolo, mas na verdade você percebe que Bolo Poucas Calorias está sendo mais acessado. Não basta colocar a palavra-chave Baixa Caloria dentro da receita original, é necessário que haja alteração.
+
