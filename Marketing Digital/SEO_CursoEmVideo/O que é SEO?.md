@@ -13,5 +13,19 @@ O fator mais importante do SEO é gerar tráfego e autoridade de modo orgânico.
 
 ### Verdades que não te contam.
 - SEO geralmente demora para gerar os primeiros resultados.
-	Contudo, temos que pensar que é algo orgânico. Nessa fase, provavelmente o Google está te colocando numa 
+
+	Contudo, temos que pensar que é algo orgânico. Nessa fase, provavelmente o Google está te colocando numa fase de teste para ver se seu conteúdo vai ter continuidade e tudo mais.
+- As regras mudam com frequência e não são informados publicamente em detalhes.
+
+	Algumas ações que eram comumente utilizadas como linkar vários links artificialmente dentro de uma página é considerada uma prática negativa para o Google. Contudo, o Google pode postar em alguns blogs sobre recomendações do que não fazer (a Central de ajuda do Google pode ajudar).
+- Seguimos recomendações das ferramentas de busca, experiência própria e pesquisas feitas por terceiros.
+- Somente os desenvolvedores das ferramentas que sabem exatamente como eles funcionam. 
+- Não é possível dar garantias de resultados. Pessoas com conteúdo similar ao seu podem estar fazendo um trabalho similar e com divulgação melhor.
+
+### Erros comuns.
+-> Não atender princípios básicos do SEO.
+-> Criar conteúdo sem estratégia e que o usuário não está procurando. Conteúdo original aqui ganha muito destaque.
+-> Conseguir ranquear bem o conteúdo, mas a mensagem não ciclou corretamente entre as pessoas que você desejava alcançar
+
+
 
