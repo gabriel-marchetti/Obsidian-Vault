@@ -1,1 +1,6 @@
 -> Técnicas e Estratégias para ajudar em buscar orgânicas no Google.
+-> Introdução ao SEO e Mecanismo de Busca.
+-> Técnicas de SEO, Estratégia de SEO e Fatores de Ranqueamento.
+	- Técnicas de SEO: Montar o Site pensando no modo como ele vai se proliferar pela Web (Durante a criação do Site).
+-> Google Analytics e Google Search Console.
+-> Rank Math e Yoast (Específico para Word Press).
