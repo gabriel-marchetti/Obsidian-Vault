@@ -3,4 +3,11 @@
 -> Técnicas de SEO, Estratégia de SEO e Fatores de Ranqueamento.
 	- Técnicas de SEO: Montar o Site pensando no modo como ele vai se proliferar pela Web (Durante a criação do Site).
 -> Google Analytics e Google Search Console.
--> Rank Math e Yoast (Específico para Word Press).
+-> Rank Math e Yoast (Específico para Word Press são plugins).
+	- Ajudam a implementar técnicas básicas de SEO.
+-> Palavras-Chave, Títulos, Links, Estrutura de URLs, Conteúdo e Metadados.
+-> Metadescription.
+-> Performance.
+-> Cuidados e Recomendações.
+-> Checklist para SEO.
+
