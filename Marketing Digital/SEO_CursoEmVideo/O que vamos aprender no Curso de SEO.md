@@ -11,3 +11,15 @@
 -> Cuidados e Recomendações.
 -> Checklist para SEO.
 
+### Conteúdo Premium
+-> Estratégia de conteúdo
+-> Uso de ferramentas de SEO
+-> Uso de Backlinks
+-> Google Tag Manager
+-> Google Analytics
+	- Eventos
+	- UTM
+	- Relatórios Personalizados
+-> Carreira
+	- Especialização em diversas áreas como tráfego pago, SEO optimization e tudo mais.
+
