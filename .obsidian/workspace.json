@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing Digital/SEO_CursoEmVideo/O que vamos aprender no Curso de SEO.md",
+                "file": "Marketing Digital/SEO_CursoEmVideo/O que é SEO?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que vamos aprender no Curso de SEO"
+              "title": "O que é SEO?"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "6f11dad57e1f6342",
   "lastOpenFiles": [
-    "Marketing Digital/Search Engine Optimization.md",
     "Marketing Digital/SEO_CursoEmVideo/O que vamos aprender no Curso de SEO.md",
+    "Marketing Digital/SEO_CursoEmVideo/O que é SEO?.md",
+    "Marketing Digital/Search Engine Optimization.md",
     "Marketing Digital/SEO_CursoEmVideo",
     "C++/Study_Guide/Where to find stuff to practice.md",
     "C++/Study_Guide/How to study C++.md",
@@ -197,7 +198,6 @@
     "Miscellaneous",
     "C++/BeejGuide/Diagrama_execucao.md",
     "C++/BeejGuide/2 - Variables and Statements.md",
-    "C++/BeejGuide/1 - Hello World.md",
     "C++/BeejGuide",
     "Processos-Seletivos",
     "Images/Processo_compilacao_GNU.png",
