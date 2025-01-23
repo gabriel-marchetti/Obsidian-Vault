@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9be7f249c74d9982",
+        "id": "86e89d0b0e4da0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e284e2d1ae50c104",
+            "id": "ce104d987355b0d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e284e2d1ae50c104",
+  "active": "ce104d987355b0d5",
   "lastOpenFiles": [
-    "Marketing Digital/SEO_CursoEmVideo/O que é SEO?.md",
     "Marketing Digital/SEO_CursoEmVideo/A evolução dos mecanismos de busca..md",
+    "Marketing Digital/SEO_CursoEmVideo/O que é SEO?.md",
     "Marketing Digital/SEO_CursoEmVideo/O que vamos aprender no Curso de SEO.md",
     "Marketing Digital/Search Engine Optimization.md",
     "Marketing Digital/SEO_CursoEmVideo",

@@ -18,4 +18,7 @@ Exemplos de buscadores são:
 -> Lycos: Primeiro mecanismo de busca que recebeu dinheiro de investidores.
 
 -> 1995: Mecanismos de busca inteligentes.
--> Excite, Altavista.
+-> Excite, Altavista. Automatização dos processos de criação de sites
+-> Backrub(Começo do Google): Rank baseado em referências (backlinks).
+	O nome Google surgiu da seguinte mecanismo, à medida que mais sites forem sendo adicionados haverá um momento que chegaremos em um Googol de sites. Contudo, um designer confundiu e escreveu Google, mas essa palavra fica parecido com óculos de mergulho. Como os inventores gostaram da ideia de mergulhar na Internet, eles mantiveram esse nome.
+
