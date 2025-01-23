@@ -20,5 +20,9 @@ Exemplos de buscadores são:
 -> 1995: Mecanismos de busca inteligentes.
 -> Excite, Altavista. Automatização dos processos de criação de sites
 -> Backrub(Começo do Google): Rank baseado em referências (backlinks).
-	O nome Google surgiu da seguinte mecanismo, à medida que mais sites forem sendo adicionados haverá um momento que chegaremos em um Googol de sites. Contudo, um designer confundiu e escreveu Google, mas essa palavra fica parecido com óculos de mergulho. Como os inventores gostaram da ideia de mergulhar na Internet, eles mantiveram esse nome.
+	O nome Google surgiu da seguinte maneira, na medida que mais sites forem sendo adicionados haverá um momento que chegaremos em um Googol de sites. Contudo, um designer confundiu e escreveu Google, mas essa palavra fica parecido com óculos de mergulho. Como os inventores gostaram da ideia de mergulhar na Internet, eles mantiveram esse nome.
+
+-> Projetos brasileiros de buscadores: cadê?, metaminer, @onde, radix. Tirando o @onde, que foi desenvolvido por um menino de 14 anos em 1997, os outros projetos fizeram parte de trabalhos universitários.
+
+-> Nos anos 2000 o Google já tinha se tornado o maior buscador do mundo. Além disso, houve inclusão de anúncios e já haviam 1 bilhão de sites indexados. Em 2001 já havia 3 bilhões de sites. 
 
