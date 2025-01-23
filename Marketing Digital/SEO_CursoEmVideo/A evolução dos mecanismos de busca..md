@@ -26,3 +26,10 @@ Exemplos de buscadores são:
 
 -> Nos anos 2000 o Google já tinha se tornado o maior buscador do mundo. Além disso, houve inclusão de anúncios e já haviam 1 bilhão de sites indexados. Em 2001 já havia 3 bilhões de sites. 
 
+-> O Google ficou tão relevante que ele conseguiu desbancar o Internet Explorer, um navegador que vinha incluso no sistema operacional da Microsoft. Além disso, o termo Google está dentro de vários dicionários de língua inglesa, de modo que é impossível não atrelar qualquer imagem de navegador sem usar o Google.
+
+-> A partir de 2011 o google começou a atualizar anualmente o mecanismo de busca para melhorar a experiência do usuário. Core Update é o nome a partir de 2017.
+
+- **Search Engine Result Page (SERP):** Lista dos resultados apresentados de uma busca. -> Resultados monetários começaram a ter m
+
+
