@@ -30,6 +30,7 @@ Exemplos de buscadores são:
 
 -> A partir de 2011 o google começou a atualizar anualmente o mecanismo de busca para melhorar a experiência do usuário. Core Update é o nome a partir de 2017.
 
-- **Search Engine Result Page (SERP):** Lista dos resultados apresentados de uma busca. -> Resultados monetários começaram a ter m
+- **Search Engine Result Page (SERP):** Lista dos resultados apresentados de uma busca. -> Resultados monetários começaram a ter mais valor. Por conta disso, há estratégias para gerar tráfico orgânico nos sites.
+
 
 
