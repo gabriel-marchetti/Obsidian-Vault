@@ -11,10 +11,14 @@
             "id": "ad9e226fc19ea90b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Montar-PC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Montar-PC"
             }
           }
         ]
@@ -162,6 +166,7 @@
   },
   "active": "ad9e226fc19ea90b",
   "lastOpenFiles": [
+    "Montar-PC.md",
     "C++/LearnCpp/ProgramingDymics.svg",
     "C++/LearnCpp/LinkingObjects-min.webp",
     "C++/LearnCpp/CompileSource-min.webp",
